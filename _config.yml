@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Federico Speranza
 # Description of the Site
-description: Data Scientist passionate about statistical modelling and data analysis
+description: Statistical modelling and data analysis
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -23,12 +23,12 @@ heroimage: /WhatATheme/assets/images/background.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: speranza.physics@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
+linkedin_username: https://www.linkedin.com/in/federico-speranza-286287189/
+github_username:  federico-speranza
 youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
 reddit_username: /
 behance_username: /
@@ -40,9 +40,8 @@ google-analytics: UA-163806439-1
 
 # Disqus
 disqus-shortname: thedevslot
-
 # Name of the Author
-author-name: TheDevsLot
+author-name: FedericoSperanza
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
