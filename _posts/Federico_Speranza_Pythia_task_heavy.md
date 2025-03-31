@@ -5,7 +5,7 @@ post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/asse
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
-- sample
+- football
 - post
 - test
 ---
