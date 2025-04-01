@@ -59,6 +59,13 @@ plugins:
   - jekyll-admin
   - jekyll-feed
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+
+
 # Permalink
 permalink: "blog/:title"
 
