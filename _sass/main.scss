@@ -72,3 +72,27 @@ hr {
         }
     }
 }
+
+
+//modifiche per contenuto post
+.content-column {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    
+    @media screen and (max-width: 768px) {
+      padding: 0 1rem;
+    }
+  }
+  
+  #post {
+    .container {
+      width: 100%;
+      max-width: 1200px;
+    }
+    
+    .content {
+      margin: 0 auto;
+    }
+  }
+
